@@ -1,0 +1,4 @@
+Import your project to GitHub
+Import all the files, including the revision history, from another version control system.
+
+Your old repository’s clone URL
